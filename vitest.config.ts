@@ -8,4 +8,9 @@ export default defineConfig({
     environment: "node",
     globals: true,
   },
+  // resolve: {
+  //   alias: {
+  //     react: "next/dist/compiled/react/cjs/react.development.js",
+  //   },
+  // },
 });
